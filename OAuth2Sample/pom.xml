@@ -6,7 +6,7 @@
 	<groupId>com.ecsteam.sample.oauth2</groupId>
 	<artifactId>OAuth2Sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>OAuth2Sample</name>
 	<description>Demo project for Spring OAuth2</description>
