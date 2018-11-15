@@ -92,7 +92,7 @@
 	</properties>
 
 	<build>
-		<finalname>sts2</finalname>
+		<finalName>OAuth2Sample</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
